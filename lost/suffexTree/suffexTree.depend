@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581539909 source:d:\cppprojects\suffextree\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
